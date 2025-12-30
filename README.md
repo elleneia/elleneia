@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @elleneia
 - 👀 I’m interested in ...
-- 🌱 I’m currently in Jeff.Pro Intermediate Python (Jeff.Pro Intro to Programming with Python graduate!). 
+- 🌱 I’m currently learning on my own (Jeff.Pro Intro to Programming with Python graduate!). 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me elleneia@protonmail.com
+- 📫 How to reach me 777elleneia@startmail.com
 
 <!---
 elleneia/elleneia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
